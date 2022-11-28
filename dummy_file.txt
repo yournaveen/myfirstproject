@@ -7,3 +7,4 @@ Adding this content 1 for commit changes
 
 
 Adding a branch to this code 
+ this is dummy edited new branch text
